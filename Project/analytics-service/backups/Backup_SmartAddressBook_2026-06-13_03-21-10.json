@@ -1,0 +1,110 @@
+{
+  "exportDate": "2026-06-13T03:21:10.616056",
+  "contacts": [
+    {
+      "id": "1781299017366",
+      "name": "Harsh",
+      "mobile": "9898989898",
+      "whatsapp": "9898989898",
+      "village": "Ahmedabad",
+      "address": "Nikol",
+      "notes": "",
+      "categories": [
+        "General",
+        "Retail Customer",
+        "Transporter",
+        "Contractor"
+      ],
+      "createdAt": "2026-06-12T21:16:57.364Z",
+      "syncStatus": "pending"
+    },
+    {
+      "id": "1781299396170",
+      "name": "a",
+      "mobile": "7878787878",
+      "whatsapp": "7878787878",
+      "village": "Bhavnagar",
+      "address": "a",
+      "notes": "",
+      "categories": [
+        "General",
+        "Labor",
+        "Salesman",
+        "Purchase Merchant"
+      ],
+      "createdAt": "2026-06-12T21:23:16.169Z",
+      "syncStatus": "pending"
+    },
+    {
+      "id": "1781299426079",
+      "name": "a",
+      "mobile": "7979797979",
+      "whatsapp": "7979797979",
+      "village": "Junagadh",
+      "address": "q",
+      "notes": "",
+      "categories": [
+        "General",
+        "Purchase Merchant"
+      ],
+      "createdAt": "2026-06-12T21:23:46.078Z",
+      "syncStatus": "pending"
+    },
+    {
+      "id": "1781300508402",
+      "name": "w",
+      "mobile": "9192939999",
+      "whatsapp": "9192939999",
+      "village": "Ahmedabad",
+      "address": "a",
+      "notes": "",
+      "categories": [
+        "General",
+        "Relative"
+      ],
+      "createdAt": "2026-06-12T21:41:48.401Z",
+      "syncStatus": "pending"
+    }
+  ],
+  "cities": [
+    {
+      "id": "1",
+      "villageName": "Ahmedabad",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "5",
+      "villageName": "Bhavnagar",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "6",
+      "villageName": "Jamnagar",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "7",
+      "villageName": "Junagadh",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "3",
+      "villageName": "Rajkot",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "2",
+      "villageName": "Surat",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "4",
+      "villageName": "Vadodara",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    }
+  ],
+  "count": {
+    "contacts": 4,
+    "cities": 7
+  }
+}

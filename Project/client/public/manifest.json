@@ -1,0 +1,15 @@
+{
+  "short_name": "SmartAddressBook",
+  "name": "Smart Address Book Management System with Data Analytics",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1a73e8",
+  "background_color": "#d2e3fc"
+}

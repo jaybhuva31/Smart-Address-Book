@@ -1,0 +1,177 @@
+{
+  "contacts": [
+    {
+      "id": "1781299017366",
+      "name": "Harsh",
+      "mobile": "9898989898",
+      "whatsapp": "9898989898",
+      "village": "Ahmedabad",
+      "address": "Nikol",
+      "notes": "",
+      "categories": [
+        "General",
+        "Retail Customer",
+        "Transporter",
+        "Contractor"
+      ],
+      "createdAt": "2026-06-12T21:16:57.364Z",
+      "syncStatus": "synced"
+    },
+    {
+      "id": "1781299396170",
+      "name": "a",
+      "mobile": "7878787878",
+      "whatsapp": "7878787878",
+      "village": "Bhavnagar",
+      "address": "a",
+      "notes": "",
+      "categories": [
+        "General",
+        "Labor",
+        "Salesman",
+        "Purchase Merchant"
+      ],
+      "createdAt": "2026-06-12T21:23:16.169Z",
+      "syncStatus": "synced"
+    },
+    {
+      "id": "1781299426079",
+      "name": "a",
+      "mobile": "7979797979",
+      "whatsapp": "7979797979",
+      "village": "Junagadh",
+      "address": "q",
+      "notes": "",
+      "categories": [
+        "General",
+        "Purchase Merchant"
+      ],
+      "createdAt": "2026-06-12T21:23:46.078Z",
+      "syncStatus": "synced"
+    },
+    {
+      "id": "1781300508402",
+      "name": "w",
+      "mobile": "9192939999",
+      "whatsapp": "9192939999",
+      "village": "Ahmedabad",
+      "address": "a",
+      "notes": "",
+      "categories": [
+        "General",
+        "Relative"
+      ],
+      "createdAt": "2026-06-12T21:41:48.401Z",
+      "syncStatus": "synced"
+    },
+    {
+      "id": "1781301230321",
+      "name": "j",
+      "mobile": "9798979989",
+      "whatsapp": "9798979989",
+      "village": "Jamnagar",
+      "address": "a",
+      "notes": "",
+      "categories": [
+        "General",
+        "Religious Organization"
+      ],
+      "createdAt": "2026-06-12T21:53:50.320Z",
+      "syncStatus": "synced"
+    },
+    {
+      "id": "1781302411067",
+      "name": "r",
+      "mobile": "9697989897",
+      "whatsapp": "9697989897",
+      "village": "Ahmedabad",
+      "address": "h",
+      "notes": "",
+      "categories": [
+        "General",
+        "Wholesale Customer",
+        "Religious Organization"
+      ],
+      "createdAt": "2026-06-12T22:13:31.066Z",
+      "syncStatus": "synced"
+    },
+    {
+      "id": "1781302872961",
+      "name": "a",
+      "mobile": "9596979899",
+      "whatsapp": "9596979899",
+      "village": "Bhavnagar",
+      "address": "a",
+      "notes": "",
+      "categories": [
+        "General",
+        "Transporter",
+        "Purchase Merchant",
+        "Religious Organization"
+      ],
+      "createdAt": "2026-06-12T22:21:12.961Z",
+      "syncStatus": "synced"
+    },
+    {
+      "id": "1781303065890",
+      "name": "t",
+      "mobile": "9897979797",
+      "whatsapp": "9897979797",
+      "village": "Ahmedabad",
+      "address": "k",
+      "notes": "",
+      "categories": [
+        "General",
+        "Purchase Merchant",
+        "Religious Organization"
+      ],
+      "createdAt": "2026-06-12T22:24:25.890Z",
+      "syncStatus": "synced"
+    }
+  ],
+  "cities": [
+    {
+      "id": "1",
+      "villageName": "Ahmedabad",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "2",
+      "villageName": "Surat",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "3",
+      "villageName": "Rajkot",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "4",
+      "villageName": "Vadodara",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "5",
+      "villageName": "Bhavnagar",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "6",
+      "villageName": "Jamnagar",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    },
+    {
+      "id": "7",
+      "villageName": "Junagadh",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    }
+  ],
+  "admins": [
+    {
+      "id": "1",
+      "username": "admin",
+      "passwordHash": "$2a$10$Jh3zvgRTFDJ/x1p6Li6XoulghtfcwopnU2cAr/BnRUCB7BV.jlICi",
+      "createdAt": "2026-06-04T12:40:22.130Z"
+    }
+  ]
+}
