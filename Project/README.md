@@ -162,4 +162,4 @@ The FastAPI server exposes the following REST endpoints:
 
 ## Author Section
 
-Developed by a **Senior Full-Stack Software Architect & Data Analytics Engineer**. Showcase this project for recruiter evaluations, presentations, and technical portfolios.
+Developed by a **Jay Bhuva**. Showcase this project for recruiter evaluations, presentations, and technical portfolios.
